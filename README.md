@@ -1,6 +1,6 @@
 # Dog vs Cat Image Classifier
 
-This project is a simple image classification tool that uses PyTorch and a pre-trained ResNet18 model to classify images of dogs and cats. It was created as part of my application for the Research Assistant position at The Hospital for Sick Children and demonstrates my ability to build and train deep learning models using PyTorch.
+This project is a simple image classification tool that uses PyTorch and a pre-trained ResNet18 model to classify images of dogs and cats. It was created to demonstrate my ability to build and train deep learning models using PyTorch.
 
 ## Features
 
